@@ -18,12 +18,4 @@ This is a simple Python Rock, Paper, Scissors game where players can play agains
     - Paper beats Rock
 4. **Score Tracking**: The scores are tracked for both the player and the computer.
 
-## How to Run
 
-1. Ensure you have Python installed.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-game.git
-   cd rock-paper-scissors-game
-"# Scissor-Paper-Rock" 
-"# Scissor-Paper-Rock" 
